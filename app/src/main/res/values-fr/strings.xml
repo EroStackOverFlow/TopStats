@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Top Stats</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="accueil">Accueil</string>
+
+    //top
+    <string name="Les_plus_grosses_fortunes_de_la_planete">Les plus grosses fortunes de la planète</string>
+    <string name="classement_fifa">classement FIFA</string>
+    <string name="Entreprise_les_plus_fortunees">Entreprise les plus fortunées</string>
+    <string name="Classement_des_pays_par_PIB">Classement des pays par PIB</string>
+    <string name="classement_universite">classement universite</string>
+    <string name="Les_plus_grandes_puisssances_Millitaires">Les plus grandes puisssances Millitaires</string>
+    <string name="Liste_des_albums_musicaux_les_plus_vendus">Liste des albums musicaux les plus vendus</string>
+    <string name="Liste_des_plus_gros_succès_du_box_office_mondial">Liste des plus gros succès du box-office mondial</string>
+    <string name="les_meilleures_series_du_moment">les meilleures series du moment</string>
+    <string name="top_10_des_acteurs_les_mieux_payes">top 10 des acteurs de cinema les mieux payes</string>
+    <string name="Top_100_des_meilleurs_animes_japonais">Top 100 des meilleurs animes japonais</string>
+    <string name="Les_meilleurs_Mangas_de_l_Année_2019">Les meilleurs Mangas de l\'Année 2019</string>
+    <string name="Les_meilleurs_Animes_de_l_Année_2019">Les meilleurs Animes de l\'Année 2019</string>
+    <string name="Les_meilleurs_entreprises_IT">Les meilleurs entreprises IT</string>
+    <string name="Liste_des_jeux_vidéo_les_plus_vendus">Liste des jeux vidéo les plus vendus</string>
+    <string name="Top_25_des_jeux_massivement_multijoueurs">Top 25 des jeux massivement multijoueurs</string>
+    <string name="Liste_des_consoles_de_jeux_vidéo_les_plus_vendues">Liste des consoles de jeux vidéo les plus vendues</string>
+    <string name="les_meilleures_universités_mondiales_en_technologie">les meilleures universités mondiales en technologie, informatique et sciences</string>
+    <string name="Classement_Forbes_Les_Musiciens_Les_Mieux_Payés_En_2018">Classement Forbes : Les Musiciens Les Mieux Payés En 2018</string>
+    <string name="Les_religions_les_plus_populaires_au_monde">Les religions les plus populaires au monde</string>
+    <string name="Liste_des_papes">Liste des papes</string>
+    <string name="sportifs_les_plus_riches">Les 20 sportifs les plus riches de ces dix dernières années</string>
+    <string name="classement_des_meilleurs_hôpitaux_du_monde">classement des meilleurs hôpitaux du monde</string>
+    <string name="Les_10_principales_causes_de_mortalité">Les 10 principales causes de mortalité</string>
+
+
+
+
+    //url
+    <string name="url_plus_riche_du_monde">https://www.lanouvellerepublique.fr/a-la-une/top-500-des-milliardaires-2017-une-annee-faste-pour-les-riches</string>
+    <string name="url_FIFA_rank_list">https://fr.fifa.com/fifa-world-ranking/</string>
+    <string name="url_entrerpises_les_plus_fortunee">https://www.journaldunet.com/economie/magazine/1159250-classement-entreprises/</string>
+    <string name="url_PIB">https://www.journaldunet.fr/patrimoine/guide-des-finances-personnelles/1209268-classement-pib/</string>
+    <string name="url_puissances_millitaires">https://lesavoirperdudesanciens.com/2018/04/classement-des-armees-les-plus-puissantes-du-monde-en-2017/</string>
+    <string name="url_classement_universite">https://fr.wikipedia.org/wiki/Classement_mondial_des_universit%C3%A9s_QS</string>
+    <string name="url_Liste_des_albums_musicaux_les_plus_vendus">https://fr.wikipedia.org/wiki/Liste_des_albums_musicaux_les_plus_vendus</string>
+    <string name="url_Liste_des_plus_gros_succès_du_box_office_mondial">https://fr.wikipedia.org/wiki/Liste_des_plus_gros_succ%C3%A8s_du_box-office_mondial</string>
+    <string name="url_les_meilleures_series_du_moment">https://www.cinetrafic.fr/top-100-serie</string>
+    <string name="url_Top_100_des_meilleurs_animes_japonais">https://www.senscritique.com/top/resultats/Les_meilleurs_animes_japonais/282242</string>
+    <string name="url_top_10_des_acteurs_les_mieux_payes">https://www.forbes.fr/classements/classement-forbes-2019-top-10-des-acteurs-les-mieux-payes-au-monde/?cn-reloaded=1</string>
+    <string name="url_Les_meilleurs_Mangas_de_l_Année_2019">https://www.ledojomanga.com/manga/classement/annee/2019</string>
+    <string name="url_Les_meilleurs_Animes_de_l_Année_2019">https://https://www.senscritique.com/liste/Classement_des_animes_vus_de_2019/2281820</string>
+    <string name="url_Les_meilleurs_entreprises_IT">https://www.businessinsider.fr/entreprises-de-reve-etudiants-ingenieurs-informatique</string>
+    <string name="url_Liste_des_jeux_vidéo_les_plus_vendus">https://fr.wikipedia.org/wiki/Liste_des_jeux_vid%C3%A9o_les_plus_vendus</string>
+    <string name="url_Top_25_des_jeux_massivement_multijoueurs">https://www.senscritique.com/top/resultats/Les_meilleurs_MMO/188418</string>
+    <string name="url_Liste_des_consoles_de_jeux_vidéo_les_plus_vendues">https://fr.wikipedia.org/wiki/Liste_des_consoles_de_jeux_vid%C3%A9o_les_plus_vendues</string>
+    <string name="url_les_meilleures_universités_mondiales_en_technologie">https://www.lemonde.fr/campus/article/2017/10/17/quelles-sont-les-meilleures-universites-mondiales-en-technologie-informatique-et-sciences_5202205_4401467.html</string>
+    <string name="url_Classement_Forbes_Les_Musiciens_Les_Mieux_Payés_En_2018">https://www.forbes.fr/classements/classement-forbes-les-musiciens-les-mieux-payes-en-2018/</string>
+    <string name="url_Les_religions_les_plus_populaires_au_monde">https://bestof.one/categories/societe/religions/classements/les-religions-les-plus-populaires-au-monde</string>
+    <string name="url_Liste_des_papes">https://fr.wikipedia.org/wiki/Liste_des_papes</string>
+    <string name="url_sportifs_les_plus_riches">https://www.lalibre.be/lifestyle/magazine/les-20-sportifs-les-plus-riches-de-ces-dix-dernieres-annees-560d543b3570b0f19f0bc8f5</string>
+    <string name="url_classement_des_meilleurs_hôpitaux_du_monde">https://www.reseau-hopital-ght.fr/actualites/qualite-securite-ethique/palmares-classements/newsweek-publie-le-classement-des-meilleurs-hopitaux-du-monde.html</string>
+    <string name="url_Les_10_principales_causes_de_mortalité">https://www.who.int/fr/news-room/fact-sheets/detail/the-top-10-causes-of-death</string>
+
+
+
+
+    <string name="open">ouvrir dans un navigateur</string>
+    <string name="oups">Oups, vous n\'avez pas d\'application qui puisse lancer ce fichier</string>
+    <string name="title_activity_navigator">NavigatorActivity</string>
+    <string name="AppColor">App Color</string>
+    <string name="Choisir_une_couleur">Choisir une Couleure</string>
+    <string name="Couleur">App color</string>
+    <string name="activity_prefence_name">préférence</string>
+    <string name="navigator">Navigateur Web</string>
+    <string name="communicate">communiquer</string>
+    <string name="title_activity_splash_screen">SplashScreaenActivity</string>
+    <string name="notification_channel_id">myCanal</string>
+    <string name="notification_channel_title">myTitle</string>
+    <string name="notification_channel_desc">this is the test canal</string>
+    <string name="action_reload">rafraichir</string>
+    <string name="toast_open_url">ouvrez une stat d abord</string>
+
+
+    //category
+    <string name="Category">Top catégories</string>
+    <string name="Category_finance">Finance/Armée</string>
+    <string name="Category_IT">IT</string>
+    <string name="Category_music">Musique</string>
+    <string name="Category_sport">Sport</string>
+    <string name="Category_universite">universite</string>
+    <string name="Category_animes_bd">Animes/BD</string>
+    <string name="Category_jeux_video">Jeux-videos</string>
+    <string name="Category_cinema_series">Cinema/Series</string>
+    <string name="Category_sante">Sante</string>
+    <string name="Category_religion">Religion</string>
+
+
+
+</resources>

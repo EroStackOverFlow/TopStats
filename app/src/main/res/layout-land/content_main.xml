@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".MainActivity"
+    tools:showIn="@layout/app_bar_main"
+    android:orientation="horizontal">
+
+    <!-- FrameLayout for our fragments -->
+    <FrameLayout
+        android:id="@+id/activity_frame_layout"
+        android:layout_height="match_parent"
+        android:layout_weight="40"
+        android:layout_width="0px"/>
+    <!-- FrameLayout for our fragments -->
+    <FrameLayout
+        android:id="@+id/activity_top_fragment"
+        android:layout_height="match_parent"
+        android:layout_weight="60"
+        android:layout_width="0px">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            app:srcCompat="@mipmap/topstatt" />
+
+    </FrameLayout>
+
+</LinearLayout>

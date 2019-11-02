@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Top Stats</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="accueil">Willkommen</string>
+    <string name="open">in Browser öffnen</string>
+    <string name="oups">Ups, Sie haben keine Anwendung, die diese Datei starten kann</string>
+    <string name="title_activity_navigator">NavigatorActivity</string>
+    <string name="AppColor">App Farbe</string>
+    <string name="Choisir_une_couleur">Wähle eine Farbe</string>
+    <string name="Couleur">App Farbe</string>
+    <string name="activity_prefence_name">Vorliebe</string>
+    <string name="communicate">kommunizieren</string>
+    <string name="title_activity_splash_screen">SplashScreaenActivity</string>
+    <string name="navigator">web Browser</string>
+    <string name="notification_channel_id">myCanal</string>
+    <string name="notification_channel_title">myTitle</string>
+    <string name="notification_channel_desc">this is the test canal</string>
+    <string name="action_reload">reload</string>
+
+
+    <string name="Les_plus_grosses_fortunes_de_la_planete">Das größte Vermögen der Erde</string>
+    <string name="classement_fifa">FIFA-Rangliste</string>
+    <string name="Entreprise_les_plus_fortunees">reichsten Unternehmen</string>
+    <string name="Classement_des_pays_par_PIB">BIP Ranking der Länder</string>
+    <string name="Les_plus_grandes_puisssances_Millitaires">Die größten Militärmächte</string>
+    <string name="classement_universite">Ranking der besten Universitäten der Welt</string>
+    <string name="Liste_des_albums_musicaux_les_plus_vendus">Liste der meistverkauften musikalischen Alben</string>
+    <string name="Top_100_des_meilleurs_animes_japonais">Top 100 der besten japanischen Anime</string>
+    <string name="top_10_des_acteurs_les_mieux_payes">Top 10 der bestbezahlten Schauspieler</string>
+    <string name="Liste_des_plus_gros_succès_du_box_office_mondial">Liste der größten Erfolge der globalen Kinokasse</string>
+    <string name="les_meilleures_series_du_moment">" Die besten Serien aller Zeiten"</string>
+    <string name="Les_meilleurs_Mangas_de_l_Année_2019">The Best New Manga You Should Be Reading in 2019</string>
+    <string name="Les_meilleurs_Animes_de_l_Année_2019">The Best New Manga You Should Be Reading in 2019</string>
+    <string name="Les_meilleurs_entreprises_IT">The best IT companies</string>
+    <string name="Liste_des_jeux_vidéo_les_plus_vendus">List of the most sold video games</string>
+    <string name="Top_25_des_jeux_massivement_multijoueurs">The 39 Best MMO and MMORPGs for the Game Lovers in 2019 And beyond</string>
+    <string name="Liste_des_consoles_de_jeux_vidéo_les_plus_vendues">List of best-selling game consoles</string>
+    <string name="les_meilleures_universités_mondiales_en_technologie">Global Ranking of Academic Subjects 2019 - Computer Science and Engineering</string>
+    <string name="Classement_Forbes_Les_Musiciens_Les_Mieux_Payés_En_2018">The World\'s Highest-Paid Musicians Of 2018</string>
+    <string name="Les_religions_les_plus_populaires_au_monde">The most popular religions in the world</string>
+    <string name="Liste_des_papes">List of Popes</string>
+    <string name="sportifs_les_plus_riches">The World\'s Highest-Paid Athletes </string>
+    <string name="classement_des_meilleurs_hôpitaux_du_monde">ranking of the best hospitals in the world</string>
+    <string name="Les_10_principales_causes_de_mortalité">The 10 leading causes of death</string>
+    <string name="toast_open_url">open a stat first</string>
+
+
+    <string name="url_plus_riche_du_monde">https://de.statista.com/statistik/daten/studie/181482/umfrage/liste-der-top-25-milliardaere-weltweit/</string>
+    <string name="url_FIFA_rank_list">https://de.fifa.com/fifa-world-ranking/ranking-table/men/</string>
+    <string name="url_entrerpises_les_plus_fortunee">https://www.pwc.de/de/kapitalmarktorientierte-unternehmen/die-100-wertvollsten-unternehmen-der-welt-usa-dominiert-das-ranking-europa-ist-weit-abgeschlagen.html</string>
+    <string name="url_PIB">https://de.wikipedia.org/wiki/Liste_der_L%C3%A4nder_nach_Bruttoinlandsprodukt</string>
+    <string name="url_puissances_millitaires">https://www.manager-magazin.de/politik/artikel/grafik-die-10-maechtigsten-armeen-der-welt-mit-der-groessten-feuerkraft-a-981116.html</string>
+    <string name="url_classement_universite">https://de.wikipedia.org/wiki/QS_World_University_Rankings</string>
+    <string name="url_Liste_des_plus_gros_succès_du_box_office_mondial">https://de.wikipedia.org/wiki/Liste_erfolgreicher_Filme</string>
+    <string name="url_Liste_des_albums_musicaux_les_plus_vendus">https://de.wikipedia.org/wiki/Liste_der_weltweit_meistverkauften_Musikalben</string>
+    <string name="url_les_meilleures_series_du_moment">https://www.tvspielfilm.de/news-und-specials/die-besten-us-serien-aller-zeiten,9250353,ApplicationArticle.html</string>
+    <string name="url_Top_100_des_meilleurs_animes_japonais">https://www.animexx.de/news/13487520179485/thread_51569/0/</string>
+    <string name="url_top_10_des_acteurs_les_mieux_payes">https://www.promipool.de/tv-film/das-sind-die-forbes-top-10-der-bestbezahlten-schauspieler-2019</string>
+    <string name="url_Les_meilleurs_Mangas_de_l_Année_2019">https://www.ranker.com/list/new-manga-2019/anna-lindwasser</string>
+    <string name="url_Les_meilleurs_Animes_de_l_Année_2019">https://www.thrillist.com/entertainment/nation/best-anime-2019</string>
+    <string name="url_Les_meilleurs_entreprises_IT">https://techcrunch.com/2018/12/04/these-are-the-15-best-u-s-tech-companies-to-work-for-in-2019-according-to-glassdoor/</string>
+    <string name="url_Liste_des_jeux_vidéo_les_plus_vendus">https://www.ign.com/articles/2019/04/19/top-10-best-selling-video-games-of-all-time</string>
+    <string name="url_Top_25_des_jeux_massivement_multijoueurs">https://www.b4gamez.com/best-mmo-and-mmorpgs/</string>
+    <string name="url_Liste_des_consoles_de_jeux_vidéo_les_plus_vendues">https://en.wikipedia.org/wiki/List_of_best-selling_game_consoles</string>
+    <string name="url_les_meilleures_universités_mondiales_en_technologie">http://www.shanghairanking.com/shanghairanking-subject-rankings/computer-science-engineering.html</string>
+    <string name="url_Classement_Forbes_Les_Musiciens_Les_Mieux_Payés_En_2018">https://www.forbes.com/sites/zackomalleygreenburg/2018/12/04/the-worlds-highest-paid-musicians-of-2018-u2-coldplay-ed-sheeran/#5953d7074151</string>
+    <string name="url_Les_religions_les_plus_populaires_au_monde">https://en.wikipedia.org/wiki/List_of_religious_populations</string>
+    <string name="url_Liste_des_papes">https://en.wikipedia.org/wiki/List_of_popes</string>
+    <string name="url_sportifs_les_plus_riches">https://www.forbes.com/athletes/#377eba5555ae</string>
+    <string name="url_classement_des_meilleurs_hôpitaux_du_monde">https://www.advisory.com/daily-briefing/2019/04/01/best-hospitals</string>
+    <string name="url_Les_10_principales_causes_de_mortalité">https://www.healthline.com/health/leading-causes-of-death</string>
+
+
+
+    <string name="Category">Top-Kategorien</string>
+    <string name="Category_finance">Finanzen/Armee</string>
+    <string name="Category_IT">IT</string>
+    <string name="Category_music">Musik</string>
+    <string name="Category_sport">Sport</string>
+    <string name="Category_universite">Universität</string>
+    <string name="Category_animes_bd">Anime/Comics</string>
+    <string name="Category_jeux_video">Videospiele</string>
+    <string name="Category_cinema_series">Kino/Serie</string>
+    <string name="Category_sante">Gesundheit</string>
+    <string name="Category_religion">Religion</string>
+
+</resources>

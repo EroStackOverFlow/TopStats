@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <PreferenceCategory android:title="@string/AppColor" >
+
+        <net.trivialapps.topstats.Utils.ColorPickerPreferenceDialog
+
+            android:key="AppColorPref"
+            android:title="@string/AppColor"
+            android:summary="@string/Choisir_une_couleur"
+            android:dialogTitle="@string/Couleur"
+            />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

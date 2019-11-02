@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="net.trivialapps.topstatt.NavigatorActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/ic_menu_manage"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/reload"
+        android:icon="@android:drawable/ic_menu_rotate"
+        android:title="@string/action_reload"
+        app:showAsAction="ifRoom" />
+
+</menu>
