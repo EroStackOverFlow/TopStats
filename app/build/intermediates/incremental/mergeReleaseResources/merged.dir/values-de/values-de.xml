@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="AppColor">App Farbe</string>
+    <string name="Category">Top-Kategorien</string>
+    <string name="Category_IT">IT</string>
+    <string name="Category_animes_bd">Anime/Comics</string>
+    <string name="Category_cinema_series">Kino/Serie</string>
+    <string name="Category_finance">Finanzen/Armee</string>
+    <string name="Category_jeux_video">Videospiele</string>
+    <string name="Category_music">Musik</string>
+    <string name="Category_religion">Religion</string>
+    <string name="Category_sante">Gesundheit</string>
+    <string name="Category_sport">Sport</string>
+    <string name="Category_universite">Universität</string>
+    <string name="Choisir_une_couleur">Wähle eine Farbe</string>
+    <string name="Classement_Forbes_Les_Musiciens_Les_Mieux_Payés_En_2018">The World\'s Highest-Paid Musicians Of 2018</string>
+    <string name="Classement_des_pays_par_PIB">BIP Ranking der Länder</string>
+    <string name="Couleur">App Farbe</string>
+    <string name="Entreprise_les_plus_fortunees">reichsten Unternehmen</string>
+    <string name="Les_10_principales_causes_de_mortalité">The 10 leading causes of death</string>
+    <string name="Les_meilleurs_Animes_de_l_Année_2019">The Best New Manga You Should Be Reading in 2019</string>
+    <string name="Les_meilleurs_Mangas_de_l_Année_2019">The Best New Manga You Should Be Reading in 2019</string>
+    <string name="Les_meilleurs_entreprises_IT">The best IT companies</string>
+    <string name="Les_plus_grandes_puisssances_Millitaires">Die größten Militärmächte</string>
+    <string name="Les_plus_grosses_fortunes_de_la_planete">Das größte Vermögen der Erde</string>
+    <string name="Les_religions_les_plus_populaires_au_monde">The most popular religions in the world</string>
+    <string name="Liste_des_albums_musicaux_les_plus_vendus">Liste der meistverkauften musikalischen Alben</string>
+    <string name="Liste_des_consoles_de_jeux_vidéo_les_plus_vendues">List of best-selling game consoles</string>
+    <string name="Liste_des_jeux_vidéo_les_plus_vendus">List of the most sold video games</string>
+    <string name="Liste_des_papes">List of Popes</string>
+    <string name="Liste_des_plus_gros_succès_du_box_office_mondial">Liste der größten Erfolge der globalen Kinokasse</string>
+    <string name="Top_100_des_meilleurs_animes_japonais">Top 100 der besten japanischen Anime</string>
+    <string name="Top_25_des_jeux_massivement_multijoueurs">The 39 Best MMO and MMORPGs for the Game Lovers in 2019 And beyond</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Zur Startseite"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Nach oben"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Weitere Optionen"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fertig"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Alle ansehen"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"App auswählen"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"Aus"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"An"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Strg +"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"Löschen"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"Eingabetaste"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Funktionstaste +"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta-Taste +"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Umschalttaste +"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"Leertaste +"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym-Taste +"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menütaste +"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Suchen…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Suchanfrage löschen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Suchanfrage"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Suchen"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Suchanfrage senden"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Sprachsuche"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Freigeben für"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Mit <ns1:g id="APPLICATION_NAME">%s</ns1:g> teilen"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Minimieren"</string>
+    <string name="accueil">Willkommen</string>
+    <string name="action_reload">reload</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_prefence_name">Vorliebe</string>
+    <string name="app_name">Top Stats</string>
+    <string name="classement_des_meilleurs_hôpitaux_du_monde">ranking of the best hospitals in the world</string>
+    <string name="classement_fifa">FIFA-Rangliste</string>
+    <string name="classement_universite">Ranking der besten Universitäten der Welt</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Aktivieren"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> funktioniert erst nach der Aktivierung der Google Play-Dienste."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play-Dienste aktivieren"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Installieren"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind die Google Play-Dienste erforderlich, die auf deinem Gerät nicht installiert sind."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play-Dienste installieren"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Verfügbarkeit von Google Play-Diensten"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Fehler bei Zugriff auf Google Play-Dienste"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> hat Probleme mit Google Play-Diensten. Bitte versuche es noch einmal."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind Google Play-Dienste erforderlich, die auf deinem Gerät nicht unterstützt werden."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Aktualisieren"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> wird nur ausgeführt, wenn du die Google Play-Dienste aktualisierst."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play-Dienste aktualisieren"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind Google Play-Dienste erforderlich, die gerade aktualisiert werden."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Eine neue Version der Google Play-Dienste wird benötigt. Diese wird in Kürze automatisch aktualisiert."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Auf Smartphone öffnen"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Anmelden"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Über Google anmelden"</string>
+    <string name="communicate">kommunizieren</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Sonstiges"</string>
+    <string name="les_meilleures_series_du_moment">" Die besten Serien aller Zeiten"</string>
+    <string name="les_meilleures_universités_mondiales_en_technologie">Global Ranking of Academic Subjects 2019 - Computer Science and Engineering</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigator">web Browser</string>
+    <string name="notification_channel_desc">this is the test canal</string>
+    <string name="notification_channel_id">myCanal</string>
+    <string name="notification_channel_title">myTitle</string>
+    <string name="open">in Browser öffnen</string>
+    <string name="oups">Ups, Sie haben keine Anwendung, die diese Datei starten kann</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Suchen"</string>
+    <string name="sportifs_les_plus_riches">The World\'s Highest-Paid Athletes </string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="title_activity_navigator">NavigatorActivity</string>
+    <string name="title_activity_splash_screen">SplashScreaenActivity</string>
+    <string name="toast_open_url">open a stat first</string>
+    <string name="top_10_des_acteurs_les_mieux_payes">Top 10 der bestbezahlten Schauspieler</string>
+    <string name="url_Classement_Forbes_Les_Musiciens_Les_Mieux_Payés_En_2018">https://www.forbes.com/sites/zackomalleygreenburg/2018/12/04/the-worlds-highest-paid-musicians-of-2018-u2-coldplay-ed-sheeran/#5953d7074151</string>
+    <string name="url_FIFA_rank_list">https://de.fifa.com/fifa-world-ranking/ranking-table/men/</string>
+    <string name="url_Les_10_principales_causes_de_mortalité">https://www.healthline.com/health/leading-causes-of-death</string>
+    <string name="url_Les_meilleurs_Animes_de_l_Année_2019">https://www.thrillist.com/entertainment/nation/best-anime-2019</string>
+    <string name="url_Les_meilleurs_Mangas_de_l_Année_2019">https://www.ranker.com/list/new-manga-2019/anna-lindwasser</string>
+    <string name="url_Les_meilleurs_entreprises_IT">https://techcrunch.com/2018/12/04/these-are-the-15-best-u-s-tech-companies-to-work-for-in-2019-according-to-glassdoor/</string>
+    <string name="url_Les_religions_les_plus_populaires_au_monde">https://en.wikipedia.org/wiki/List_of_religious_populations</string>
+    <string name="url_Liste_des_albums_musicaux_les_plus_vendus">https://de.wikipedia.org/wiki/Liste_der_weltweit_meistverkauften_Musikalben</string>
+    <string name="url_Liste_des_consoles_de_jeux_vidéo_les_plus_vendues">https://en.wikipedia.org/wiki/List_of_best-selling_game_consoles</string>
+    <string name="url_Liste_des_jeux_vidéo_les_plus_vendus">https://www.ign.com/articles/2019/04/19/top-10-best-selling-video-games-of-all-time</string>
+    <string name="url_Liste_des_papes">https://en.wikipedia.org/wiki/List_of_popes</string>
+    <string name="url_Liste_des_plus_gros_succès_du_box_office_mondial">https://de.wikipedia.org/wiki/Liste_erfolgreicher_Filme</string>
+    <string name="url_PIB">https://de.wikipedia.org/wiki/Liste_der_L%C3%A4nder_nach_Bruttoinlandsprodukt</string>
+    <string name="url_Top_100_des_meilleurs_animes_japonais">https://www.animexx.de/news/13487520179485/thread_51569/0/</string>
+    <string name="url_Top_25_des_jeux_massivement_multijoueurs">https://www.b4gamez.com/best-mmo-and-mmorpgs/</string>
+    <string name="url_classement_des_meilleurs_hôpitaux_du_monde">https://www.advisory.com/daily-briefing/2019/04/01/best-hospitals</string>
+    <string name="url_classement_universite">https://de.wikipedia.org/wiki/QS_World_University_Rankings</string>
+    <string name="url_entrerpises_les_plus_fortunee">https://www.pwc.de/de/kapitalmarktorientierte-unternehmen/die-100-wertvollsten-unternehmen-der-welt-usa-dominiert-das-ranking-europa-ist-weit-abgeschlagen.html</string>
+    <string name="url_les_meilleures_series_du_moment">https://www.tvspielfilm.de/news-und-specials/die-besten-us-serien-aller-zeiten,9250353,ApplicationArticle.html</string>
+    <string name="url_les_meilleures_universités_mondiales_en_technologie">http://www.shanghairanking.com/shanghairanking-subject-rankings/computer-science-engineering.html</string>
+    <string name="url_plus_riche_du_monde">https://de.statista.com/statistik/daten/studie/181482/umfrage/liste-der-top-25-milliardaere-weltweit/</string>
+    <string name="url_puissances_millitaires">https://www.manager-magazin.de/politik/artikel/grafik-die-10-maechtigsten-armeen-der-welt-mit-der-groessten-feuerkraft-a-981116.html</string>
+    <string name="url_sportifs_les_plus_riches">https://www.forbes.com/athletes/#377eba5555ae</string>
+    <string name="url_top_10_des_acteurs_les_mieux_payes">https://www.promipool.de/tv-film/das-sind-die-forbes-top-10-der-bestbezahlten-schauspieler-2019</string>
+</resources>
