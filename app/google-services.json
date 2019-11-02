@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "344337280358",
+    "firebase_url": "https://topstats-bf000.firebaseio.com",
+    "project_id": "topstats-bf000",
+    "storage_bucket": "topstats-bf000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344337280358:android:4295d0d18ea55c7fe4eca7",
+        "android_client_info": {
+          "package_name": "net.trivialapps.topstats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344337280358-gqfceahdg3444rmhei86durkmj1dl9gj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.trivialapps.topstats",
+            "certificate_hash": "e34b1572f13e964ae9e2912e7f2af7d17711bdbb"
+          }
+        },
+        {
+          "client_id": "344337280358-pdc4mll5ljoejpfo33uarut11bc5mfd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh8JZYpETUDNQ2ML7aTqSlJvsR9-RLIn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344337280358-pdc4mll5ljoejpfo33uarut11bc5mfd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
